@@ -30,6 +30,12 @@ nav a {
     float: left;
     color: white;
 }
+nav a:hover{
+    color: darkviolet;
+}
+nav a:visited{
+    color: rgb(144, 0, 155);
+}
 
 main {
     background-color: white;
