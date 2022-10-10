@@ -1,0 +1,50 @@
+p{
+    text-indent: 40px;
+}
+
+h2{
+   color: darkorange;
+
+}
+h1{
+    color: rgb(0, 255, 47);
+    text-rendering: auto;
+    text-decoration-line: overline;
+    text-shadow: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    text-size-adjust: 10%;
+}
+p{
+    color: white;
+    font-weight: 500;
+}
+a:hover{
+    color: deeppink;
+    text-decoration: none;
+} 
+
+option[value="visa"]{
+    color: sandybrown;
+}
+
+    .background{
+        background-image: url("img/pexels-isabella-mendes-341013.jpg");
+        background-repeat: no-repeat;
+        
+        background-origin: border-box;
+        background-size: cover;
+        
+        
+        background-attachment: fixed;
+        padding: 2%;
+    }
+    *{
+        margin: 0%;
+        padding: 0%;
+        border: 500%;
+    }
+    
+
+

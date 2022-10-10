@@ -1,0 +1,48 @@
+nav a{
+    text-decoration: none;
+    text-align: center;
+    color:whitesmoke;
+    padding: 20px;
+    float: left;
+    
+    
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+    background-position-x: 0px;
+    margin-bottom: 2%;
+    
+}
+nav a:hover{
+    color: darkviolet;
+}
+nav a:visited{
+    color: rgb(144, 0, 155);
+}
+h1{
+
+    color: red;
+    font-size: 500%;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 6px 6px 4px pink;
+    
+    
+    
+}
+
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse:collapse ;
+    padding: 10px;
+    word-spacing: 5px;
+    border-spacing: 10px;
+}
+th{
+    background-color: chartreuse;
+}
+td{
+    background-color: darkorange;
+}
+
